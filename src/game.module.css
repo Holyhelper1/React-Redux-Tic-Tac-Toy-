@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+}
+
+.newGameBtn {
+  color: rgb(255, 225, 180);
+  font-size: 30px;
+  margin: auto;
+  margin-bottom: 10px;
+  display: flex;
+  border-radius: 8px;
+  background: rgb(28, 28, 28);
+  cursor: pointer;
+}

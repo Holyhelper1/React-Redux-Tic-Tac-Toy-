@@ -1,0 +1,31 @@
+.field {
+  margin: 4px;
+  text-align: center;
+  align-items: center;
+  background: rgb(82, 82, 101);
+  width: 90px;
+  height: 90px;
+  align-items: center;
+  border: solid 1px rgb(189 59 59);
+  border-radius: 10px;
+  box-sizing: border-box;
+  color: rgb(255, 225, 180);
+  font-size: 60px;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}
+.field:hover {
+  border: solid 1px rgb(17, 122, 187);
+  background: rgb(61, 61, 99);
+  cursor: pointer;
+}
+
+.fildWrapper {
+  background: rgb(66, 63, 63);
+  border-radius: 10px;
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  box-sizing: border-box;
+  justify-content: space-evenly;
+}
